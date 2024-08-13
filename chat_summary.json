@@ -30,5 +30,11 @@
         "content": "change the background to be purple",
         "timestamp": "13082024183515",
         "message_id": "guest13082024183515"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "I'll change the background color to purple for you.",
+        "timestamp": "13082024183516",
+        "message_id": "guest13082024183515"
     }
 ]

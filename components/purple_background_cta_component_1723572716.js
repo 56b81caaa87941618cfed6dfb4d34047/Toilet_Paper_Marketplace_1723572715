@@ -34,18 +34,18 @@ Vue.component("purple_background_cta_component_1723572716", {
             return {
                 expanded: false, 
                 tab: null,
-                radialGradientPrimaryStyle: "bg-purple-500",
-                radialGradientSecondaryStyle: "bg-purple-400",
-                stopColorPrimaryStyle: "#A855F7",
-                stopColorSecondaryStyle: "#6366F1",
+                radialGradientPrimaryStyle: "bg-amber-800",
+                radialGradientSecondaryStyle: "bg-amber-700",
+                stopColorPrimaryStyle: "#92400E",
+                stopColorSecondaryStyle: "#B45309",
                 transparentTextStyle: "text-transparent",
-                contentSubtitleStyle: "bg-gradient-to-r from-purple-500 to-purple-200",
+                contentSubtitleStyle: "bg-gradient-to-r from-amber-800 to-amber-600",
                 contentCtaTitleStyle: "bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60",
                 contentBodyStyle: "text-slate-400",
                 contentCtaButtonPrimaryStyle:"text-slate-900",
                 contentCtaButtonGradientStyle: "bg-gradient-to-r from-white/80 via-white to-white/80",
                 contentCtaButtonHoverStyle: "hover:bg-white",
-                contentCtaArrowStyle: "text-purple-500"
+                contentCtaArrowStyle: "text-amber-800"
             };
         },
     });

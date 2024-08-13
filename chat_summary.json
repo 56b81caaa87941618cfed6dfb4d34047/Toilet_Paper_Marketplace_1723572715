@@ -42,5 +42,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the entire background of the website to be purple, or are there specific sections/pages you're referring to?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections/pages\"}, {\"question 2\": \"What shade of purple would you prefer for the background? Please provide a preference or an example if possible.\", \"option1\": \"Light purple\", \"option2\": \"Dark purple\"}], \"input_token_count\": 290, \"output_token_count\": 99, \"time_taken\": \"0:00:03.666962\"}",
         "timestamp": "13082024183520",
         "message_id": "guest13082024183515"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a theme toggle for users to switch between light, dark, and colorful themes\", \"checked\": true}, {\"feature\": \"Add a color palette selector for users to customize the background to their liking\", \"checked\": false}, {\"feature\": \"Enable background texture choices for a more personalized user experience\", \"checked\": false}, {\"feature\": \"Introduce animated backgrounds related to the toilet paper market theme for enhanced visual appeal\", \"checked\": false}, {\"feature\": \"Provide background opacity adjustment settings for better readability of text over the background\", \"checked\": false}], \"input_token_count\": 244, \"output_token_count\": 129, \"time_taken\": \"0:00:04.556020\"}",
+        "timestamp": "13082024183520",
+        "message_id": "guest13082024183515"
     }
 ]

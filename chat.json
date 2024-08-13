@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of brown in mind for the background, or would you like us to select a shade that complements the website's current color scheme?\", \"option1\": \"I have a specific shade in mind and will provide the color code.\", \"option2\": \"Please select a complementary shade of brown for me.\"}, {\"question 2\": \"Is this background color change intended for the entire website, including all pages and sections, or only specific parts (e.g., homepage, product pages)?\", \"option1\": \"Change the background color for the entire website.\", \"option2\": \"Change the background color only for specific parts of the website.\"}], \"input_token_count\": 256, \"output_token_count\": 150, \"time_taken\": \"0:00:04.962862\"}",
+        "message_id": "guest13082024181219",
+        "timestamp": "13082024181224",
+        "component_file_name": "purple_background_cta_component_1723572716",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background to be brown",
         "message_id": "guest13082024181219",

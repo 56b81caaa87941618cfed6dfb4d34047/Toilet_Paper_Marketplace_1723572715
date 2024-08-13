@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the entire background of the website to be purple, or are there specific sections/pages you're referring to?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections/pages\"}, {\"question 2\": \"What shade of purple would you prefer for the background? Please provide a preference or an example if possible.\", \"option1\": \"Light purple\", \"option2\": \"Dark purple\"}], \"input_token_count\": 290, \"output_token_count\": 99, \"time_taken\": \"0:00:03.666962\"}",
+        "message_id": "guest13082024183515",
+        "timestamp": "13082024183520",
+        "component_file_name": "purple_background_cta_component_1723572716",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'll change the background color to purple for you.",
         "message_id": "guest13082024183515",

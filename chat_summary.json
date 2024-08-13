@@ -36,5 +36,11 @@
         "content": "I'll change the background color to purple for you.",
         "timestamp": "13082024183516",
         "message_id": "guest13082024183515"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the entire background of the website to be purple, or are there specific sections/pages you're referring to?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections/pages\"}, {\"question 2\": \"What shade of purple would you prefer for the background? Please provide a preference or an example if possible.\", \"option1\": \"Light purple\", \"option2\": \"Dark purple\"}], \"input_token_count\": 290, \"output_token_count\": 99, \"time_taken\": \"0:00:03.666962\"}",
+        "timestamp": "13082024183520",
+        "message_id": "guest13082024183515"
     }
 ]
